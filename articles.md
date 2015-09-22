@@ -7,4 +7,4 @@
 #Assuntos
 - [ ] ES6
 - [ ] React
-- [ ] Vida de Analista
+- [ ] Vida de Analista x Vida de Programador
