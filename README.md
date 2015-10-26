@@ -1,7 +1,9 @@
 # Trabalhos
 
 ## Projetos
-- [x] [validate.js](https://github.com/dleitee/validate.js) - A simple library to forms validate. 
+- [x] [valid.js](https://github.com/dleitee/validate.js) - A simple library for data validation.
+- [x] [twitty](https://github.com/dleitee/twitty) - A simple but gold Twitter Command Line Client.
+- [ ] [format.js](https://github.com/dleitee/format.js) - A simple library for data format.
 
 ## Artigos
 - [x] [5 Coisas que Aprendi com o GitHub](https://medium.com/@dleitee/5-coisas-que-aprendi-com-o-github-6cd8fd620e58#.hpc5y7gc3)
